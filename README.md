@@ -16,6 +16,11 @@ logic, so the board can be driven directly from a Raspberry Pi Pico W (or any
 
 10 PCBs were ordered from JLCPCB in November 2025 costing about GBP 5.00 in total with shipping included. The boards are 50 mm × 50 mm, two-layer, ENIG finish, with a solder mask and silkscreen.
 
+<p align="center">
+  <img src="front.jpg" alt="RFSwitch PCB front" width="48%">
+  <img src="back.jpg" alt="RFSwitch PCB back" width="48%">
+</p>
+
 ## Interfaces
 
 ### Control header J1 (1x8, 2.54 mm)
