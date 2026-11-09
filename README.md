@@ -19,6 +19,10 @@ The switch should work at least up to 75Mhz, and probably well into the VHF rang
   <img src="front.jpg" alt="RFSwitch PCB front" width="48%">
   <img src="back.jpg" alt="RFSwitch PCB back" width="48%">
 </p>
+<p align="center">
+  <img src="schematic.jpg" alt="RFSwitch Schematic" width="80%">
+</p>
+
 
 ## Interfaces
 
