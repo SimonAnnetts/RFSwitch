@@ -11,7 +11,9 @@ logic, so the board can be driven directly from a Raspberry Pi Pico W (or any
 * PCB: [RFSwitch/RFSwitch.kicad_pcb](RFSwitch/RFSwitch.kicad_pcb)
 * Symbols, footprints and 3D models used by the project are in `RFSwitch/libs` and `RFSwitch/packages3D`.
 
-10 PCBs were ordered from JLCPCB in November 2026 costing about GBP 5.00 in total with shipping included. The boards are 50 mm × 50 mm, two-layer, ENIG finish, with a solder mask and silkscreen.
+The switch should work at least up to 75Mhz, and probably well into the VHF range, but I have not tested it yet.
+
+10 PCBs were ordered from JLCPCB in November 2026 costing about GBP 5.00 in total with shipping included. The boards are 50 mm × 50 mm, two-layer, ENIG finish, with a solder mask and silkscreen. I await their arrival, and once I have built and tested one, I will update this README with measured performance figures.
 
 <p align="center">
   <img src="front.jpg" alt="RFSwitch PCB front" width="48%">
