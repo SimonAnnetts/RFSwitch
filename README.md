@@ -169,9 +169,8 @@ gate edges slightly.
 
 * **L1 (25–33 nH, 4–5 turns at 3 mm, air-core) in series with C4** at the
   input, and **C13–C16 (2.2 pF) from each output to ground**, are not part of
-  the switching mechanism. They look like frequency-response/impedance
-  compensation for the J310 capacitances. I have not confirmed this from a
-  design note, so treat it as an inference from the schematic.
+  the switching mechanism. They are optional frequency-response/impedance
+  compensation for the J310 capacitances, and will hopefully allow me to tweak the SWR and insertion loss at VHF. I have not yet tested the board, so I do not know if they are needed or what values are best.
 
 ## Bill of materials (summary)
 
