@@ -1,0 +1,102 @@
+{
+  "backed_up": [
+    {
+      "path": "RFSwitch.kicad_sch",
+      "backup": "backup/RFSwitch.kicad_sch"
+    },
+    {
+      "path": "RFSwitch.kicad_pcb",
+      "backup": "backup/RFSwitch.kicad_pcb"
+    }
+  ],
+  "created_files": [
+    "libs/RF_Custom_local.kicad_sym",
+    "libs/4xxx_IEEE_local.kicad_sym",
+    "libs/Device_local.kicad_sym",
+    "libs/Custom_local.kicad_sym",
+    "libs/power_local.kicad_sym",
+    "libs/Connector_local.kicad_sym",
+    "sym-lib-table",
+    "libs/RF_Custom_local.pretty/Pad_S1.5mm_Drill1.0mm.kicad_mod",
+    "libs/Resistor_THT_local.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.kicad_mod",
+    "libs/Capacitor_THT_local.pretty/C_Disc_D7.0mm_W2.5mm_P5.00mm.kicad_mod",
+    "libs/Resistor_THT_local.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.kicad_mod",
+    "libs/RF_Custom_local.pretty/SMA_EdgeMount_SmallPadOnly.kicad_mod",
+    "libs/RF_Custom_local.pretty/SMD_TrackEnd_1.5x1.5_mask.kicad_mod",
+    "libs/Package_TO_SOT_THT_local.pretty/TO-92L_Inline_Wide.kicad_mod",
+    "libs/Connector_PinHeader_2.54mm_local.pretty/PinHeader_1x08_P2.54mm_Vertical.kicad_mod",
+    "libs/Inductor_THT_local.pretty/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.kicad_mod",
+    "libs/Package_DIP_local.pretty/DIP-16_W7.62mm_Socket.kicad_mod",
+    "fp-lib-table",
+    "packages3D/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.step",
+    "packages3D/Capacitor_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.step",
+    "packages3D/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step",
+    "packages3D/Package_TO_SOT_THT.3dshapes/TO-92L_Inline_Wide.step",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step",
+    "packages3D/Inductor_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.step",
+    "packages3D/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step"
+  ],
+  "created_dirs": [
+    "libs",
+    "libs/RF_Custom_local.pretty",
+    "libs/Resistor_THT_local.pretty",
+    "libs/Capacitor_THT_local.pretty",
+    "libs/Package_TO_SOT_THT_local.pretty",
+    "libs/Connector_PinHeader_2.54mm_local.pretty",
+    "libs/Inductor_THT_local.pretty",
+    "libs/Package_DIP_local.pretty",
+    "packages3D/Resistor_THT.3dshapes",
+    "packages3D",
+    "packages3D/Capacitor_THT.3dshapes",
+    "packages3D/Package_TO_SOT_THT.3dshapes",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes",
+    "packages3D/Inductor_THT.3dshapes",
+    "packages3D/Package_DIP.3dshapes"
+  ],
+  "hashes": {
+    "libs/RF_Custom_local.kicad_sym": "07299cea1c1ae6cc17f4fde4dda720d6b4408aa14e123e5afbcf024eaa060b31",
+    "libs/4xxx_IEEE_local.kicad_sym": "d0f4f1106fe652d377d78e6e96365f8d23f1f898214df6d7ba3278d47e56f146",
+    "libs/Device_local.kicad_sym": "d8cd2847723eef0397104b8647872c80147795358312230604a502750f87023d",
+    "libs/Custom_local.kicad_sym": "c1d2587c56e9ab00b3ef92ae8cab0b01679efe8c24acd59c90a601fcf4fe8a4d",
+    "libs/power_local.kicad_sym": "dfd086b4029e347d7a0041744b684ba8dda351ba8d8f7838cc0cbaeb06c87b54",
+    "libs/Connector_local.kicad_sym": "50b42bf755009d3d459c310182dca1c37e1ff1a01fa6ae23846b416fafffc914",
+    "RFSwitch.kicad_sch": "645d66b9fe7e156048f1a1043bb1fb6faf473fefc12a74e34de243ad21d0163e",
+    "sym-lib-table": "4df4e22e6533823764f69c011638593ea275c9472f5278103190f9402ddacf85",
+    "libs/RF_Custom_local.pretty/Pad_S1.5mm_Drill1.0mm.kicad_mod": "321e06524ba2457cc3e7654197dcee2f3dbdd78a54ef5820a1c3269d57727595",
+    "libs/Resistor_THT_local.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.kicad_mod": "23ee66a22f1cdb4bdab6959346de2e6ac43285186f1685a6dc3f304ec5cd3d44",
+    "libs/Capacitor_THT_local.pretty/C_Disc_D7.0mm_W2.5mm_P5.00mm.kicad_mod": "faaff3a73fadaf955cf53bd3b47951efb866c1d72973bb07c2f18008a8fbbf70",
+    "libs/Resistor_THT_local.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.kicad_mod": "4f3a8d6aeedb6b4599cd0bd5fe501f4e2d33dce1e9bdb6ac6bf636706311a6b3",
+    "libs/RF_Custom_local.pretty/SMA_EdgeMount_SmallPadOnly.kicad_mod": "c580fe3c9572c55636453488288743f296c92bcbeaaef46d6506de8ce80c92d2",
+    "libs/RF_Custom_local.pretty/SMD_TrackEnd_1.5x1.5_mask.kicad_mod": "27823d695d89852adb0b9135603e6b07189c5698bb8e9e525d3aacda1b88d96b",
+    "libs/Package_TO_SOT_THT_local.pretty/TO-92L_Inline_Wide.kicad_mod": "3ccd8197cfb05b59da2b4c85b7b6054b6de9a10fc3b4534045dd9d7a01ce04e4",
+    "libs/Connector_PinHeader_2.54mm_local.pretty/PinHeader_1x08_P2.54mm_Vertical.kicad_mod": "a3487a12dc87702385d7c9d219d8e1dff23f5bd4d263be9d8ce0507ebf77b0df",
+    "libs/Inductor_THT_local.pretty/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.kicad_mod": "2ddb17b7d43580184c88d3b88f32af8981d93a3e5c63b68984ac18d28092b94f",
+    "libs/Package_DIP_local.pretty/DIP-16_W7.62mm_Socket.kicad_mod": "5f6fc9acde6f4b2e56a5c889d515cb9377d746dd15b7ab2b961f2d586ade02f1",
+    "RFSwitch.kicad_pcb": "e0534256c08a6e410c5de5ccedd3b5041cdb6631b356101b503c69ec3aab7e09",
+    "fp-lib-table": "084e62ed660f221627a41e611c9711c31f377f6b168b8e026e56c77863b78af2",
+    "packages3D/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.step": "c69df983ee6a8650bf21eba2cad3ad3e313f1310599cc69222d235fda96d4c5e",
+    "packages3D/Capacitor_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.step": "8ff813adeb7991783133340fbd3d122117d4285e61883c337a1bdb7fb2080f28",
+    "packages3D/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step": "a68bc07f83e555444e1844fd40d0eadcb2b2fec94e4bc54969d2940836b12f5c",
+    "packages3D/Package_TO_SOT_THT.3dshapes/TO-92L_Inline_Wide.step": "980eec132182e4a05aa3c4f2494e01590c724cbd3e9c820e3692b0c9863b7859",
+    "packages3D/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step": "081e2b47a2d73a4502efc64d77b9002c9a28047b5776a46043c3d9ca37bac9e1",
+    "packages3D/Inductor_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.step": "7e882ea541534e5959168fc67eae9c0ecaf52249eaccdc78ab0d0623b46fd4f5",
+    "packages3D/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step": "6ff32467ba9ed667181078b5ea324a8f8cec9919a3b521b5220996803071dacf"
+  },
+  "summary": {
+    "symbols": {
+      "libraries": 6,
+      "files_copied": 6,
+      "remapped": 63
+    },
+    "footprints": {
+      "libraries": 7,
+      "files_copied": 10,
+      "remapped": 62
+    },
+    "models": {
+      "files_copied": 7,
+      "remapped": 46,
+      "unique_sources": 7
+    }
+  }
+}

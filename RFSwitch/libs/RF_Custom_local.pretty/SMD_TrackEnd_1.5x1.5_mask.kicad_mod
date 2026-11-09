@@ -1,0 +1,71 @@
+(footprint "SMD_TrackEnd_1.5x1.5_mask"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD track End")
+	(tags "SMD Track RF 1.5")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9092e7fe-3e7f-488a-b8bf-cf5e4406d1db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SMD_TrackEnd_1.5x1.5_mask"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "00aa9874-ecba-44e7-b1d5-71be289bb3aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29d461c1-d046-4ae9-8c03-518f6f3db699")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02d7b828-0c52-44e9-bb7c-a60fa67a2a0d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom allow_missing_courtyard
+		dnp
+	)
+	(pad "1" smd rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(clearance 0.288)
+		(uuid "a54f1b9a-d6c3-4195-8b20-cc77c3068481")
+	)
+	(embedded_fonts no)
+)
