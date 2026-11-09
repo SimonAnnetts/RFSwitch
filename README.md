@@ -1,9 +1,6 @@
 # RFSwitch
 
-A 4-way RF switch (one input, four selectable outputs) built from conventional
-through-hole parts from my parts bin: **J310 JFETs**, a **CD4104-style quad
-low-to-high voltage level translator**, and a handful of resistors and
-capacitors.
+A 4-way RF switch (one input, four selectable outputs OR four selectable inputs and one output) built from conventional through-hole parts from my parts bin: **J310 JFETs**, a **CD4104-style quad low-to-high voltage level translator**, and a handful of resistors and capacitors.
 
 The RF path is switched at 9–12 V, but the channel-select lines are plain 3.3 V
 logic, so the board can be driven directly from a Raspberry Pi Pico W (or any
@@ -14,7 +11,7 @@ logic, so the board can be driven directly from a Raspberry Pi Pico W (or any
 * PCB: [RFSwitch/RFSwitch.kicad_pcb](RFSwitch/RFSwitch.kicad_pcb)
 * Symbols, footprints and 3D models used by the project are in `RFSwitch/libs` and `RFSwitch/packages3D`.
 
-10 PCBs were ordered from JLCPCB in November 2025 costing about GBP 5.00 in total with shipping included. The boards are 50 mm × 50 mm, two-layer, ENIG finish, with a solder mask and silkscreen.
+10 PCBs were ordered from JLCPCB in November 2026 costing about GBP 5.00 in total with shipping included. The boards are 50 mm × 50 mm, two-layer, ENIG finish, with a solder mask and silkscreen.
 
 <p align="center">
   <img src="front.jpg" alt="RFSwitch PCB front" width="48%">
